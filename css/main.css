@@ -143,11 +143,11 @@ a:hover {
   background: url('../images/robot.png') no-repeat;
   background-size: 22%;
   background-attachment: fixed;
-  padding: 170px 0 290px;
+  padding: 180px 0 300px;
   /*color: #fff;*/
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   /*position: relative;*/
-  background-position: 5% 80%;
+  background-position: 5% 85%;
 
 }
 #hero-area:before {
